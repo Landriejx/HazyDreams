@@ -1,0 +1,19 @@
+{
+	"name": "Dreamworld",
+	"Atmosphere": {
+		"fogDensity": 1.0,
+		"fogSize": 1100.0,
+		"fogTint": {
+			"r": 150,
+			"g": 180,
+			"b": 180,
+			"a": 230
+		},
+		"size": 1000.0,
+		"useAtmosphereShader": true,
+		"atmosphereSunIntensity": 1.0
+	},
+	"Base": {
+		"ambientLight": 0.2
+	}
+}
