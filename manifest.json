@@ -4,6 +4,6 @@
   "name": "Hazy Dreams",
   "uniqueName": "Laundryjx.HazyDreams",
   "version": "0.1.0",
-  "owmlVersion": "2.1.0",
+  "owmlVersion": "2.6.0",
   "dependencies": [ "xen.NewHorizons" ]
 }
